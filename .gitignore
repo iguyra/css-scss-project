@@ -1,0 +1,8 @@
+/node_modules
+/.vercel
+/.next
+
+
+.vercel
+config.env
+/next.config.js
